@@ -7,8 +7,8 @@
             <version>0.1</version>
             <qgis_minimum_version>3.34</qgis_minimum_version>
             <homepage>https://raw.githubusercontent.com/Pasaltran/FSTools/main/README.txt</homepage>
-            <file_name>fibersense_v0.1.zip</file_name>
-            <download_url>https://raw.githubusercontent.com/Pasaltran/FSTools/main/fibersense_v0.1.zip</download_url>
+            <file_name>fibersense.zip</file_name>
+            <download_url>https://raw.githubusercontent.com/Pasaltran/FSTools/main/release_0.1.0/fibersense.zip</download_url>
             <icon>https://raw.githubusercontent.com/Pasaltran/FSTools/main/logo.png</icon>
             <author>Scott Buchanan</author>
             <email>scott.buchanan@fibersense.com</email>
@@ -24,8 +24,8 @@
             <version>0.2</version>
             <qgis_minimum_version>3.34</qgis_minimum_version>
             <homepage>https://raw.githubusercontent.com/Pasaltran/FSTools/main/README.txt</homepage>
-            <file_name>fibersense_v0.2.zip</file_name>
-            <download_url>https://raw.githubusercontent.com/Pasaltran/FSTools/main/fibersense_v0.2.zip</download_url>
+            <file_name>fibersense.zip</file_name>
+            <download_url>https://raw.githubusercontent.com/Pasaltran/FSTools/main/release_0.2.0/fibersense.zip</download_url>
             <icon>https://raw.githubusercontent.com/Pasaltran/FSTools/main/logo.png</icon>
             <author>Scott Buchanan</author>
             <email>scott.buchanan@fibersense.com</email>
