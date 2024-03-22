@@ -29,7 +29,7 @@
             <icon>https://raw.githubusercontent.com/Pasaltran/FSTools/main/logo.png</icon>
             <author>Scott Buchanan</author>
             <email>scott.buchanan@fibersense.com</email>
-            <experimental>True</experimental>
+            <experimental>False</experimental>
             <deprecated>False</deprecated>
             <!-- <repository>https://raw.githubusercontent.com/Pasaltran/FSTools/main</repository>-->
             <tags>fibersense,poilookup,circuitandsplicebuilder</tags>
