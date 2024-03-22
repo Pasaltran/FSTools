@@ -24,12 +24,12 @@
             <version>0.2</version>
             <qgis_minimum_version>3.34</qgis_minimum_version>
             <homepage>https://raw.githubusercontent.com/Pasaltran/FSTools/main/README.txt</homepage>
-            <file_name>fibersense.zip</file_name>
-            <download_url>https://raw.githubusercontent.com/Pasaltran/FSTools/main/release_0.2.0/fibersense.zip</download_url>
+            <file_name>fibersense.0.2.0.zip</file_name>
+            <download_url>https://raw.githubusercontent.com/Pasaltran/FSTools/main/release_0.2.0/fibersense.0.2.0.zip</download_url>
             <icon>https://raw.githubusercontent.com/Pasaltran/FSTools/main/logo.png</icon>
             <author>Scott Buchanan</author>
             <email>scott.buchanan@fibersense.com</email>
-            <experimental>True</experimental>
+            <experimental>False</experimental>
             <deprecated>False</deprecated>
             <!-- <repository>https://raw.githubusercontent.com/Pasaltran/FSTools/main</repository>-->
             <tags>fibersense,poilookup,circuitandsplicebuilder</tags>
