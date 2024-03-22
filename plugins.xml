@@ -14,7 +14,7 @@
             <email>scott.buchanan@fibersense.com</email>
             <experimental>False</experimental>
             <deprecated>False</deprecated>
-            <repository>https://raw.githubusercontent.com/Pasaltran/FSTools/main</repository>
+            <!-- <repository>https://raw.githubusercontent.com/Pasaltran/FSTools/main</repository>-->
             <tags>fibersense,poilookup,circuitandsplicebuilder</tags>
         </pyqgis_plugin>
         <pyqgis_plugin name="FiberSense Toolset" version="0.2">
@@ -31,7 +31,7 @@
             <email>scott.buchanan@fibersense.com</email>
             <experimental>True</experimental>
             <deprecated>False</deprecated>
-            <repository>https://raw.githubusercontent.com/Pasaltran/FSTools/main</repository>
+            <!-- <repository>https://raw.githubusercontent.com/Pasaltran/FSTools/main</repository>-->
             <tags>fibersense,poilookup,circuitandsplicebuilder</tags>
         </pyqgis_plugin>
             <pyqgis_plugin name="POI Lookup" version="0.2.5">
