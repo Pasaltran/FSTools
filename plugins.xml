@@ -1,6 +1,7 @@
 <qgis>
     <plugins>
-        <pyqgis_plugin name="FiberSense Toolset" version="0.3">
+        <!--
+        <pyqgis_plugin name="FiberSense Toolset" version="0.3.0">
             <description>Collection of FiberSense Tools</description>
             <about>Collection of Tools for FiberSense. Includes POI Lookup and Circuit/Splice Builder along with some
             Thames tools. Included is the new GUI based POI Lookup</about>
@@ -14,10 +15,10 @@
             <email>scott.buchanan@fibersense.com</email>
             <experimental>False</experimental>
             <deprecated>False</deprecated>
-            <!-- <repository>https://raw.githubusercontent.com/Pasaltran/FSTools/main</repository>-->
             <tags>fibersense,poilookup,circuitandsplicebuilder</tags>
         </pyqgis_plugin>
-        <pyqgis_plugin name="FiberSense Toolset" version="0.2">
+        -->
+        <pyqgis_plugin name="FiberSense Toolset" version="0.2.0">
             <description>Collection of FiberSense Tools</description>
             <about>Collection of Tools for FiberSense. Includes POI Lookup and Circuit/Splice Builder along with some
             Thames tools. Included is the new GUI based POI Lookup</about>
@@ -34,7 +35,7 @@
             <!-- <repository>https://raw.githubusercontent.com/Pasaltran/FSTools/main</repository>-->
             <tags>fibersense,poilookup,circuitandsplicebuilder</tags>
         </pyqgis_plugin>
-        <pyqgis_plugin name="FiberSense Toolset" version="0.1">
+        <pyqgis_plugin name="FiberSense Toolset" version="0.1.0">
             <description>Collection of FiberSense Tools</description>
             <about>Collection of Tools for FiberSense. Includes POI Lookup and Circuit/Splice Builder along with some
             Thames tools</about>
