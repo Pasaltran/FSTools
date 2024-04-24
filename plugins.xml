@@ -1,14 +1,14 @@
 <qgis>
     <plugins>
-        <pyqgis_plugin name="FiberSense Toolset" version="0.1">
+        <pyqgis_plugin name="FiberSense Toolset" version="0.3">
             <description>Collection of FiberSense Tools</description>
             <about>Collection of Tools for FiberSense. Includes POI Lookup and Circuit/Splice Builder along with some
-            Thames tools</about>
-            <version>0.1</version>
+            Thames tools. Included is the new GUI based POI Lookup</about>
+            <version>0.3</version>
             <qgis_minimum_version>3.34</qgis_minimum_version>
             <homepage>https://raw.githubusercontent.com/Pasaltran/FSTools/main/README.txt</homepage>
-            <file_name>fibersense.zip</file_name>
-            <download_url>https://raw.githubusercontent.com/Pasaltran/FSTools/main/release_0.1.0/fibersense.zip</download_url>
+            <file_name>fibersense.0.3.0.zip</file_name>
+            <download_url>https://raw.githubusercontent.com/Pasaltran/FSTools/main/release_0.3.0/fibersense.0.3.0.zip</download_url>
             <icon>https://raw.githubusercontent.com/Pasaltran/FSTools/main/logo.png</icon>
             <author>Scott Buchanan</author>
             <email>scott.buchanan@fibersense.com</email>
@@ -34,7 +34,24 @@
             <!-- <repository>https://raw.githubusercontent.com/Pasaltran/FSTools/main</repository>-->
             <tags>fibersense,poilookup,circuitandsplicebuilder</tags>
         </pyqgis_plugin>
-            <pyqgis_plugin name="POI Lookup" version="0.2.5">
+        <pyqgis_plugin name="FiberSense Toolset" version="0.1">
+            <description>Collection of FiberSense Tools</description>
+            <about>Collection of Tools for FiberSense. Includes POI Lookup and Circuit/Splice Builder along with some
+            Thames tools</about>
+            <version>0.1</version>
+            <qgis_minimum_version>3.34</qgis_minimum_version>
+            <homepage>https://raw.githubusercontent.com/Pasaltran/FSTools/main/README.txt</homepage>
+            <file_name>fibersense.zip</file_name>
+            <download_url>https://raw.githubusercontent.com/Pasaltran/FSTools/main/release_0.1.0/fibersense.zip</download_url>
+            <icon>https://raw.githubusercontent.com/Pasaltran/FSTools/main/logo.png</icon>
+            <author>Scott Buchanan</author>
+            <email>scott.buchanan@fibersense.com</email>
+            <experimental>False</experimental>
+            <deprecated>False</deprecated>
+            <!-- <repository>https://raw.githubusercontent.com/Pasaltran/FSTools/main</repository>-->
+            <tags>fibersense,poilookup,circuitandsplicebuilder</tags>
+        </pyqgis_plugin>
+        <pyqgis_plugin name="POI Lookup" version="0.2.5">
             <description>Lookup Assets Based On POI</description>
             <about>POI Lookup This algorithm takes a XY Point and generates a map of features around the point. Input LAT, LON Coordinate: LAT and LON Coordinate of the point. The LAT and LON must be deliminated by either a space or a comma Input Map Scale: Scale factor to zoom into the entered point. 50 - 100 is usually a good starting place. Larger number zoom out. The lowest scale is 10. Input Append Map Scale: The will append the scale factor to the end of the output filename. Output PDF File: Path to the output PDF file.</about>
             <version>0.2</version>
