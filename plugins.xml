@@ -54,18 +54,18 @@
             <deprecated>False</deprecated>
             <tags>fibersense,poilookup,circuitandsplicebuilder</tags>
         </pyqgis_plugin>
-        <pyqgis_plugin name="FiberSense Toolset" version="1.0.1">
+        <pyqgis_plugin name="FiberSense Toolset" version="1.0.2">
             <description>Collection of FiberSense Tools</description>
             <about>Collection of Tools for FiberSense. Includes Heat Map Generation (V2 and the
             faster V3 for national-scale utility networks), Circuit Efficiency, POI Lookup,
             Select Best CRS and Circuit/Splice Builder along with some Thames tools.
             QGIS 4 (Qt6) release; QGIS 3 users are offered 0.3.0.</about>
-            <version>1.0.1</version>
+            <version>1.0.2</version>
             <qgis_minimum_version>4.0</qgis_minimum_version>
             <qgis_maximum_version>4.99</qgis_maximum_version>
             <homepage>https://raw.githubusercontent.com/Pasaltran/FSTools/main/README.txt</homepage>
-            <file_name>fibersense.1.0.1.zip</file_name>
-            <download_url>https://raw.githubusercontent.com/Pasaltran/FSTools/main/release_1.0.1/fibersense.1.0.1.zip</download_url>
+            <file_name>fibersense.1.0.2.zip</file_name>
+            <download_url>https://raw.githubusercontent.com/Pasaltran/FSTools/main/release_1.0.2/fibersense.1.0.2.zip</download_url>
             <icon>https://raw.githubusercontent.com/Pasaltran/FSTools/main/logo.png</icon>
             <author>Scott Buchanan</author>
             <email>scott.buchanan@fibersense.com</email>
