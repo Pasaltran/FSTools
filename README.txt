@@ -1,4 +1,4 @@
-FiberSense Plugin Tools - version 1.0.0 (QGIS 4.0 or newer)
+FiberSense Plugin Tools - version 1.0.1 (QGIS 4.0 or newer)
 ===========================================================
 
 Install: QGIS > Plugins > Manage and Install Plugins > Settings > Add
