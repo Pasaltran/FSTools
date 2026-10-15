@@ -1,4 +1,4 @@
-FiberSense Plugin Tools - version 1.0.2 (QGIS 4.0 or newer)
+FiberSense Plugin Tools - version 1.1.0 (QGIS 4.0 or newer)
 ===========================================================
 
 Install: QGIS > Plugins > Manage and Install Plugins > Settings > Add
@@ -10,8 +10,8 @@ QGIS 3 users are offered version 0.3.0.
 Tools are under Plugins > FiberSense Tools and in the Processing Toolbox > FiberSense.
 
 
-Heat Map Generation V3 (new in 1.0.0)
--------------------------------------
+Heat Map Generation V3
+----------------------
 Colours a Utility layer (water, gas, ...) by its distance from a Duct / Fiber
 layer, and the Duct by its distance from the Utility, in 1 m bands up to the
 max offset (1-25 m). Sections beyond the max offset are drawn thin black.
@@ -21,10 +21,6 @@ from the duct are not geometry-processed.
   Outputs: heat map layers, results table, optional GPKG/SHP (one per heat
   map), Excel results table, KMZ (requires the "KML Tools" plugin).
   "Include the whole Utility network" off = much smaller output around the duct.
-
-Heat Map Generation (V2)
-------------------------
-Original heat map tool, kept unchanged for comparison with V3.
 
 Circuit Efficiency V2
 ---------------------
